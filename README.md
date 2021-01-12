@@ -1,1 +1,0 @@
-# yakuzam-bot-wa
