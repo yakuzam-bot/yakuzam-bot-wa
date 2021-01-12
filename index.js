@@ -3,12 +3,12 @@
 * (Scriptnya Aris187 ID).
 */
 const BotName = 'Yakuzam Bot'; // Nama Bot Whatsapp
-const instagramlu = 'https://www.instagram.com/mr.jbot'; // 
-const whatsapplu = 'Wa.me/+6283837283490'; // 
-const kapanbotaktif = 'Jam 12 Siang — 10 Malam'; // 
-const grupch1 = 'https://chat.whatsapp.com/CX2JXqUk9ni5ZE9jCP8vnk'; // 
-const grupch2 = 'Ngak punya'; // 
-const grupch3 = 'Ngak punya'; //
+const instagramlu = 'https://www.instagram.com/mr.jbot'; 
+const whatsapplu = 'Wa.me/+6283837283490'; 
+const kapanbotaktif = 'Jam 12 Siang — 10 Malam'; 
+const grupch1 = 'https://chat.whatsapp.com/CX2JXqUk9ni5ZE9jCP8vnk'; 
+const grupch2 = 'Ngak punya'; 
+const grupch3 = 'Ngak punya'; 
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -822,7 +822,7 @@ if (text.includes("$alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah Aris187 ID
+
 
 
 })
