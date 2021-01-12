@@ -14,15 +14,15 @@ Siapin alat dan bahannya.
 ```
 
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Script ini di modifikasi sama saya sendiri Yakuzam.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik program dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/FERDIZ-afk/vira_bot
-> cd vira_bot
+> git clone https://github.com/yakuzam-bot/yakuzam-bot-wa
+> cd yakuzam-bot-wa
 > npm i -g cwebp && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
