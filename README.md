@@ -1,5 +1,5 @@
-# 🤖vira bot🤖
-BOT WHATSAPP TERMUX ONLY BY FERDIZ-afk
+# 🤖Yakuzam Bot🤖
+BOT WHATSAPP TERMUX ONLY BY Yakuzam
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| Yakuzam Bot      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -60,10 +60,10 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 |       ✅       | Donate                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Ferza-afk)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (Mr J)
 
 ## Sosial Media Admin
 
-* [`Instagram Admin`](https://www.instagram.com/ferdi_zaky_luthfi_aridho?r=nametag)
-* [`WhatsApp Admin `](https://wa.me/+6287877173955)
+* [`Instagram`](https://www.instagram.com/mr.jbot)
+* [`WhatsApp `](https://wa.me/+6283837283490)
 
